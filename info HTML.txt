@@ -1,0 +1,52 @@
+Mudanças na pagina
+
+usar tag ancora <a> para acessar fragmentos da pagina. <a href="#fragmento"> </a>
+
+e tambem para acessar um link do best trick ao clicar na imagem <a href="http://limkdo9.4"> <img> </a>
+
+para navegar entre diretórios(arquivos e pastas); devo utilizar a tag <a href=""> </a>
+
+<a id="trick-Oda" href="https://www.youtube.com/watch?v=3vakzx2SANQ" target="_blank"> <img id="trick-Oda" src="trick.png" alt="Yumeka Oda"></a>
+
+
+
+
+Esta pagina GusterSK tem como objetivo deixar um pouco mais acessível as informações de reultados dos capeonatos de Skateboarding. 
+
+Durante o ano de 2022, onde tivemos vários campeonatos importantes/emocionantes ao redor do mundo de skate street; ocorreu tambem em quatro etapas o Street League Skateboarding (SLS). Nas seguintes cidades Jacksonville (etapa1), Seattle (etapa2), Las Vegas (etapa3), Rio de Janeiro (Super Crown - Super Final).
+
+Jacksonville 
+1° - Rayssa Leal
+2° - Yumeka Oda
+3° - Pamela Rosa
+
+Seattle 
+1° - Rayssa Leal
+2° - Pamela Rosa
+3° - Momiji Nishiya
+
+Las Vegas 
+1° - Rayssa Leal
+2° - Chloe Covell
+3° - Poe Pinson
+
+Rio de Janeiro
+1° - Rayssa Leal
+2° - Funa Nakayama
+3° - Momiji Nishiya
+
+
+        <div class="girar-card1">
+          <div class="girar-card-dentro1">
+            <div class="girar-card-frente1">
+              <img src="Mazetto.png" alt="Gabriela-Mazetto"/>
+            </div>
+            <div class="girar-card-verso1">
+              <h3>Gabriela Mazetto - Brasil</h3>
+              <h2>Jacksonville: <br>	Run 4.6| Trick 5.2 <br> <hr>
+                Seattle: <br>	Run 1.8| Trick 3.4 <br> <hr>
+                Las Vegas: <br>	Run 5.9| Trick 3.7 <br> <hr>
+                Rio de Janeiro: <br> Run 5.2| Trick 4.7</h2>
+              </div>
+            </div>
+          </div>
